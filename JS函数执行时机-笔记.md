@@ -32,4 +32,12 @@ for (var i = 0; i < 6; i++) {
     }, 0);
   })(i);
 }
+
+let i;
+for (i = 0; i < 6; i++) {
+  const x = i;
+  setTimeout(() => {
+    console.log(x);
+  });
+}
 ```
