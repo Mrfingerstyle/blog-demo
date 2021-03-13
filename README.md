@@ -15,3 +15,5 @@
 #### [5.canvas 简易绘画板](https://blog.liuyangtech.com/blog-demo/task-22-canvas-demo/index.html)
 
 #### [6.跳动的代码](http://blog.liuyangtech.com/cv-1/src/index.html)
+
+#### [7.自制导航标签页](http://blog.liuyangtech.com/browser-navigation-page/src/index.html)
