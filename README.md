@@ -17,3 +17,5 @@
 #### [6.跳动的代码](http://blog.liuyangtech.com/cv-1/src/index.html)
 
 #### [7.自制导航标签页](http://blog.liuyangtech.com/browser-navigation-page/src/index.html)
+
+#### [8.CSS动态加载皮卡丘](http://blog.liuyangtech.com/draw-pikachu-on-the-web/src/test.html)
